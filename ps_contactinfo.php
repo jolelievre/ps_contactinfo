@@ -61,7 +61,6 @@ class Ps_Contactinfo extends Module implements WidgetInterface
                 'displayFooter',
                 'displayContactRightColumn',
                 'displayContactLeftColumn',
-                'displayContactContent',
                 'actionAdminStoresControllerUpdate_optionsAfter',
             ]);
     }
